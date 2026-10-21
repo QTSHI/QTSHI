@@ -1,6 +1,8 @@
 # QTSHI
 
-这里记录我的个人开发项目与实践笔记，涵盖科研阅读工具、个人资产管理、计算机视觉实验与校园网络实践。
+这里记录我的个人开发项目与实践笔记，涵盖科研阅读工具、个人资产管理、计算机视觉实验、校园网络与远程服务器工具。
+
+个人网页：[stone.cv.stoneking.top](https://stone.cv.stoneking.top)
 
 ## 项目导航
 
@@ -8,6 +10,7 @@
 | --- | --- | --- |
 | [Paper Reader](https://github.com/QTSHI/Paper-Reader) | Zotero 论文阅读插件，结合 PDF 解析、结构化笔记与 AI 辅助阅读 | [使用与构建说明](https://github.com/QTSHI/Paper-Reader#readme) |
 | [Stone Wealth](https://github.com/QTSHI/Asset-Maneger) | 家庭资产与财务中心，支持多币种估值与需本人确认的 Agent 协作 | [功能与本地运行](https://github.com/QTSHI/Asset-Maneger#readme) |
+| [Intranet Server Access](https://github.com/QTSHI/intranet-server-access) | 通过反向 SSH 隧道在浏览器中使用内网 Linux 服务器的终端、文件与代码编辑器 | [部署与使用说明](https://github.com/QTSHI/intranet-server-access#readme) |
 | [SYSU Shenzhen Campus Router](https://github.com/QTSHI/sysu-shenzhen-campus-router) | 深圳校区宿舍网接入实践、原厂路由器认证服务与诊断工具 | [接入过程与工具](https://github.com/QTSHI/sysu-shenzhen-campus-router#readme) |
 | [Cat–Dog Classifier](https://github.com/QTSHI/cat-dog-classifier) | 猫狗图像分类实验，包含数据预处理、模型与实验记录 | [实验流程](https://github.com/QTSHI/cat-dog-classifier#readme) |
 
